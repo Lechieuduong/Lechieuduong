@@ -51,7 +51,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="[https://facebook.com/trungquandev](https://www.facebook.com/profile.php?id=100010938362440&sk=about)" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100010938362440" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="lechieuduong-facebook" />
   </a>
   <a href="https://www.instagram.com/chieuduong.le/" target="blank">
